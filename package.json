@@ -1,6 +1,6 @@
 {
-  "name": "victory-chart-native",
-  "version": "0.1.1",
+  "name": "tune-victory-chart-native",
+  "version": "0.1.11",
   "description": "Chart Component for Victory",
   "main": "lib/index.js",
   "files": [
@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormidableLabs/victory-chart-native.git"
+    "url": "https://github.com/tuneZola/victory-chart-native.git"
   },
   "author": "Vakhtang Sidamonidze",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FormidableLabs/victory-chart-native/issues"
+    "url": "https://github.com/tuneZola/victory-chart-native/issues"
   },
   "homepage": "https://github.com/FormidableLabs/victory-chart-native#readme",
   "scripts": {
@@ -26,7 +26,7 @@
   "dependencies": {
     "react": "^15.1.0",
     "react-native-svg": "^3.1.1",
-    "victory-chart": "^10.1.0",
-    "victory-core-native": "^0.1.5"
+    "tune-victory-chart": "^10.1.0",
+    "tune-victory-core-native": "^0.1.5"
   }
 }
